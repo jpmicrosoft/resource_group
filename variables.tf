@@ -7,3 +7,7 @@ variable "location" {
 
 variable "tags" {
 }
+
+variable "tags2" {
+description = "testing version tags."
+}
